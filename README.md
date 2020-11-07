@@ -1,2 +1,11 @@
-# UsefoolVars
-Some simple SCSS variables useful that I gathered and optimized through the years for my personal projects.
+# Usefool Variables
+
+Some simple SCSS variables quite handy that I gathered through the years.
+
+## What's inside ?
+
+* Colors
+    * Classic colors
+    * Brand colors
+* WebSafe fonts
+* Basic breakpoints
